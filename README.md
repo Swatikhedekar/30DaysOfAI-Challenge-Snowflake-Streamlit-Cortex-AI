@@ -7,3 +7,24 @@ Over the next 30 days, you’ll progress from basic concepts to advanced techniq
 :speech_balloon: Week 1 (Days 1-7): The Basics - Your first LLM calls, streaming, and caching
 :left_speech_bubble: Week 2 (Days 8-14): Building Chatbots - Chat interfaces and session state
 :books: Week 3 (Days 15-21): RAG Applications - Retrieval-Augmented Generation
+
+## The Challenge Starts TODAY!
+Daily challenges will be posted at https://30daysofai.streamlit.app/ as we progress through the 30-day journey. Each day, you’ll find:
+
+:memo: A new coding challenge
+:light_bulb: Detailed explanations
+:graduation_cap: Key concepts and best practices
+:hammer_and_wrench: Prerequisites
+FREE Snowflake Trial Account with Cortex AI enabled
+Python 3.10+
+Basic Python knowledge
+
+Get Ready
+Make sure you have:
+
+1.  Installed the required dependencies (pip install -r requirements.txt)
+2.  Have your Snowflake credential ready
+3.  A curious mind and enthusiasm to learn! :tada:
+Finish the challenge and earn some swag!
+
+What do you say? Challenge accepted? :star_struck: Share your progress using hashtag 30daysofai here or on X/LinkedIn.
