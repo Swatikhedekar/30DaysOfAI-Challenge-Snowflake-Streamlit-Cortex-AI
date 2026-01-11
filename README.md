@@ -1,6 +1,6 @@
 # 30DaysOfAI-Challenge---Snowflake-Streamlit-Cortex-AI
 The #30DaysOfAI is a coding challenge designed to help you get started in building AI apps with Streamlit and Snowflake’s Cortex AI.
-<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/c80f6859-d2bf-4356-8ad2-cb978638f55b" /> ##What You’ll Learn
+<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/c80f6859-d2bf-4356-8ad2-cb978638f55b" /> What You’ll Learn
 
 Over the next 30 days, you’ll progress from basic concepts to advanced techniques:
 
@@ -13,15 +13,15 @@ Over the next 30 days, you’ll progress from basic concepts to advanced techniq
 Daily challenges will be posted at https://30daysofai.streamlit.app/ as we progress through the 30-day journey. Each day, you’ll find:
 
 - :memo: A new coding challenge
-- :light_bulb: Detailed explanations
-- :graduation_cap: Key concepts and best practices
+- Detailed explanations
+- Key concepts and best practices
 
 :hammer_and_wrench: Prerequisites
 - FREE Snowflake Trial Account with Cortex AI enabled
 - Python 3.10+
 - Basic Python knowledge
 
-Get Ready
+📌 Get Ready
 Make sure you have:
 
 1.  Installed the required dependencies (pip install -r requirements.txt)
@@ -29,4 +29,6 @@ Make sure you have:
 3.  A curious mind and enthusiasm to learn! :tada:
 Finish the challenge and earn some swag!
 
-What do you say? Challenge accepted? :star_struck: Share your progress using hashtag 30daysofai here or on X/LinkedIn.
+I  accepted Challenge! :star_struck: Share your progress using hashtag 30daysofai here or on X/LinkedIn.
+Follow on linkedin src="https://www.linkedin.com/in/swati-khedekar/>"
+
