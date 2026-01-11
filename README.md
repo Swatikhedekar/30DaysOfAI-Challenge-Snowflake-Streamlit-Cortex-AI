@@ -16,10 +16,10 @@ Daily challenges will be posted at https://30daysofai.streamlit.app/ as we progr
 - :light_bulb: Detailed explanations
 - :graduation_cap: Key concepts and best practices
 
-:hammer_and_wrench: ## Prerequisites
-FREE Snowflake Trial Account with Cortex AI enabled
-Python 3.10+
-Basic Python knowledge
+:hammer_and_wrench: Prerequisites
+- FREE Snowflake Trial Account with Cortex AI enabled
+- Python 3.10+
+- Basic Python knowledge
 
 Get Ready
 Make sure you have:
