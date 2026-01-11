@@ -31,7 +31,7 @@ Make sure you have:
 Finish the challenge and earn some swag!
 
 I  accepted Challenge! :star_struck: Share your progress using hashtag 30daysofai.
-Follow and like me on linkedin "https://www.linkedin.com/in/swati-khedekar/>"
+Follow and like me on [LinkedIn]("https://www.linkedin.com/in/swati-khedekar/")
 
-## Thank you!
+*Thank you!*
 
