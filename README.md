@@ -17,7 +17,7 @@ Daily challenges will be posted at https://30daysofai.streamlit.app/ as we progr
 - Detailed explanations
 - Key concepts and best practices
 
-:hammer_and_wrench: Prerequisites
+:hammer_and_wrench: Prerequisites 
 - FREE Snowflake Trial Account with Cortex AI enabled
 - Python 3.10+
 - Basic Python knowledge
@@ -30,6 +30,8 @@ Make sure you have:
 3.  A curious mind and enthusiasm to learn! :tada:
 Finish the challenge and earn some swag!
 
-I  accepted Challenge! :star_struck: Share your progress using hashtag 30daysofai here or on X/LinkedIn.
-Follow on linkedin src="https://www.linkedin.com/in/swati-khedekar/>"
+I  accepted Challenge! :star_struck: Share your progress using hashtag 30daysofai.
+Follow and like me on linkedin "https://www.linkedin.com/in/swati-khedekar/>"
+
+## Thank you!
 
