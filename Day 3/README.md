@@ -4,6 +4,7 @@
 This project is part of the **#30DaysOfAI challenge**, designed to help you build AI applications using **Streamlit** and **Snowflake Cortex**.
 
 On **Day 3**, we explore **streaming LLM responses** using the Snowflake Cortex **Complete Python API**, displaying AI output in real time as it is generated.
+![Project Banner](https://github.com/Swatikhedekar/30DaysOfAI-Challenge-Snowflake-Streamlit-Cortex-AI/blob/main/Day%203/s3.png?raw=true)
 
 ---
 
