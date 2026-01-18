@@ -1,9 +1,7 @@
-![Project Banner](Asssets/Banner_30dayai.jpeg?raw=true)
-
 # 30DaysOfAI-Challenge-Snowflake-Streamlit-Cortex-AI
 The #30DaysOfAI is a coding challenge designed to help you get started in building AI apps with Streamlit and Snowflake’s Cortex AI.
+![Project Banner]([Asssets/image_banner.png))
 ## What You’ll Learn 
-<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/c80f6859-d2bf-4356-8ad2-cb978638f55b" /> 
 
 Over the next 30 days, you’ll progress from basic concepts to advanced techniques:
 
