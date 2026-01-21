@@ -1,4 +1,5 @@
-##⚡ Day 5: Build a Post Generator App
+# Day 5: Build a Post Generator App
+
 For today's challenge, our goal is to build a Streamlit web application that generates a professional LinkedIn post. We need to call Snowflake's Cortex AI function from within the Streamlit app to generate the post content based on user-provided input like a URL, desired tone, and length. Once that's done, we will display the generated LinkedIn post text in the application's user interface.
 
 This project is part of the 30DaysOfAI-challenge, designed to help you build AI applications using Streamlit and Snowflake Cortex.
