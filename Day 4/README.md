@@ -1,7 +1,7 @@
 # ⚡ Day 4: Caching Your App
 ### 30 Days of AI – Streamlit × Snowflake Cortex
 
-This project is part of the **#30DaysOfAI challenge**, designed to help you build AI applications using **Streamlit** and **Snowflake Cortex**.
+This project is part of the **30DaysOfAI-challenge**, designed to help you build AI applications using **Streamlit** and **Snowflake Cortex**.
 
 On **Day 4**, we focus on improving performance by **caching LLM responses** in a Streamlit app that calls a Snowflake Cortex model.
 
